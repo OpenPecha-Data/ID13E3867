@@ -1,0 +1,24 @@
+id: ID13E3867
+initial_creation_type: ebook
+source_metadata:
+  id: IBA-SP-05
+  title: ༄༅། །ཚད་མ་རིགས་པའི་གཏེར་གྱི་རང་འགྲེལ་བཞུགས།
+  author: མཛད་པ་པོ། ས་སྐྱ་པཎྜི་ཏ་ཀུན་དགའ་རྒྱལ་མཚན།
+  authors: &id001
+  - མཛད་པ་པོ། ས་སྐྱ་པཎྜི་ཏ་ཀུན་དགའ་རྒྱལ་མཚན།
+  sku: IBA-SP-05
+  cover: IBA-SP-05.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །ཚད་མ་རིགས་པའི་གཏེར་གྱི་རང་འགྲེལ་བཞུགས།
+  authors: *id001
+  sku: IBA-SP-05
+  cover: IBA-SP-05.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Yigchung
